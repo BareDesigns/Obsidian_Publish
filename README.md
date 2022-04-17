@@ -1,9 +1,10 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Welcome
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
+Welcome to the site. Once I figure out the best way to nest folders I will add more documents here.
 
----
-## Custom Styling
-I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid future conflict when updating the template.
+## Questions
+
+If you have any questions or comments you can hit me up on Session.
+
+*Session ID:* 
+05e14781801fb420a2b3ac573f48b68bc719330832eeb3111141d27e54fa9c371d
