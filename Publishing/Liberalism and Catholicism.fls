@@ -1,0 +1,6 @@
+PWD /Users/jon/Documents/Obsidian/Obsidian/Publishing
+INPUT /Users/jon/Library/TinyTeX/texmf.cnf
+INPUT /Users/jon/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /Users/jon/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/jon/Documents/Obsidian/Obsidian/Publishing/Liberalism and Catholicism.tex
+OUTPUT /Users/jon/Documents/Obsidian/Obsidian/Publishing/Liberalism and Catholicism.log
